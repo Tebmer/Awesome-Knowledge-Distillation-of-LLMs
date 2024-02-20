@@ -421,7 +421,7 @@ This survey offers an in-depth exploration of knowledge distillation (KD) techni
 | [**Eureka: Human-Level Reward Design via Coding Large Language Models**](https://arxiv.org/pdf/2310.12931.pdf) | arXiv | 2023-10 | [Github](https://github.com/eureka-research/Eureka)
 | [**Language Instructed Reinforcement Learning for Human-AI Coordination**](https://arxiv.org/pdf/2304.07297.pdf) | PMLR | 2023-04 |
 | [**Guiding Pretraining in Reinforcement Learning with Large Language Models**](https://arxiv.org/pdf/2302.06692.pdf) | PMLR | 2023-02 |
-| [**Distilling Internet-Scale Vision-Language Models into Embodied Agents**](https://arxiv.org/abs/2301.12507) | arXiv | 2023-01 |
+| [**Distilling Internet-Scale Vision-Language Models into Embodied Agents**](https://arxiv.org/abs/2301.12507) | ICML | 2023-01 |
 
 
 
