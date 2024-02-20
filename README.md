@@ -106,6 +106,7 @@ This survey offers an in-depth exploration of knowledge distillation (KD) techni
         - [Text Generation Evaluation](#text-generation-evaluation)
         - [Code](#code)
     - [Multi-Modality](#multi-modality)
+    - [Summary Table](#summary-table)
 - [Verticalization Distillation](#verticalization-distillation)
     - [Law](#law)
     - [Medical & Healthcare](#medical--healthcare)
@@ -525,6 +526,8 @@ This survey offers an in-depth exploration of knowledge distillation (KD) techni
 | [**Valley: Video Assistant with Large Language model Enhanced abilitY**](https://arxiv.org/pdf/2306.07207.pdf) | arXiv | 2023-06 | [Github](https://github.com/RupertLuo/Valley) | [Data](https://huggingface.co/datasets/luoruipu1/Valley-Instruct-73k)|
 | [**DetGPT: Detect What You Need via Reasoning**](https://arxiv.org/pdf/2305.14167.pdf) | EMNLP | 2023-05 | [Github](https://detgpt.github.io) | 
 | [**Visual Instruction Tuning: A Comprehensive Study of Visual Instruction Tuning for Large Language Models**](https://arxiv.org/abs/2304.08485) | NeurIPS | 2023-04 | [Github](https://github.com/haotian-liu/LLaVA) | [Data](https://github.com/haotian-liu/LLaVA/blob/main/docs/Data.md)|
+
+### Summary Table
 
 <div align="center">
   <img src="imgs/table.jpg"><br>
