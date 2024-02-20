@@ -55,7 +55,7 @@ This survey offers an in-depth exploration of knowledge distillation (KD) techni
 **[KD Algorithms](#kd-algorithms)**:  For KD algorithms, we categorize it into two principal steps: "Knowledge Elicitation" focusing on eliciting knowledge from teacher LLMs, and "Distillation Algorithms" centered on injecting this knowledge into student models. 
 
 <div align="center">
-  <img src="imgs/knowledge.png" width="500"><br>
+  <img src="imgs/knowledge.png" width="600"><br>
   <em>Figure: An illustration of different knowledge elicitation methods from teacher LLMs.</em>
 </div>
 <br>
