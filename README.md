@@ -17,8 +17,8 @@ A Survey on Knowledge Distillation of Large Language Models
     Tao Shen<sup>4</sup>&nbsp&nbsp
     Reynold Cheng<sup>1</sup>&nbsp&nbsp
     Jinyang Li<sup>1</sup>&nbsp&nbsp
-    Can Xu<sup>3</sup>&nbsp&nbsp
-    Dacheng Tao<sup>5</sup>&nbsp&nbsp
+    Can Xu<sup>5</sup>&nbsp&nbsp
+    Dacheng Tao<sup>6</sup>&nbsp&nbsp
     Tianyi Zhang<sup>2</sup>&nbsp&nbsp
 </p>  
 
@@ -28,7 +28,8 @@ A Survey on Knowledge Distillation of Large Language Models
 <sup>2</sup> University of Maryland &nbsp&nbsp
 <sup>3</sup> Microsoft &nbsp&nbsp
 <sup>4</sup> University of Technology Sydney &nbsp&nbsp
-<sup>5</sup> The University of Sydney
+<sup>5</sup> Peking University &nbsp&nbsp
+<sup>6</sup> The University of Sydney
 </p>
 <div align="center">
   <img src="imgs/cover.png" width="400"><br>
