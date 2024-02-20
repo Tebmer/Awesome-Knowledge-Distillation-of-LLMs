@@ -31,7 +31,7 @@ A Survey on Knowledge Distillation of Large Language Models
 <sup>5</sup> The University of Sydney
 </p>
 <div align="center">
-  <img src="imgs/cover.png" alt="LLM evaluation" width="400"><br>
+  <img src="imgs/cover.png" alt="LLM evaluation"><br>
 </div>
 <br>
 
