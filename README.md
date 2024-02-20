@@ -5,12 +5,10 @@
 
 
 <!-- Big font size -->
-<p align="center" style="font-size:25px">
+<h2 align="center">
 A Survey on Knowledge Distillation of Large Language Models
-</p> 
+</h2> 
 
-<p align="center">
-</p> 
 
 <p align="center">
   Xiaohan Xu<sup>1</sup>&nbsp&nbsp
