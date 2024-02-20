@@ -54,6 +54,13 @@ This survey offers an in-depth exploration of knowledge distillation (KD) techni
 
 **[KD Algorithms](#kd-algorithms)**:  For KD algorithms, we categorize it into two principal steps: "Knowledge Elicitation" focusing on eliciting knowledge from teacher LLMs, and "Distillation Algorithms" centered on injecting this knowledge into student models. 
 
+<div align="center">
+  <img src="imgs/knowledge.png" alt="Knowledge Elicitation" width="400"><br>
+  <em>Figure: An illustration of different knowledge elicitation methods from teacher LLMs.</em>
+</div>
+<br>
+
+
 **[Skill Distillation](#skill-distillation)**:  We delve into the enhancement of specific cognitive abilities, such as context following, alignment, agent, NLP task specialization, and multi-modality.
 
 **[Verticalization Distillation](#verticalization-distillation)**: We explore the practical implications of KD across diverse fields, including law, medical & healthcare, finance, science, and miscellaneous domains.
@@ -105,6 +112,7 @@ This survey offers an in-depth exploration of knowledge distillation (KD) techni
     - [Finance](#finance)
     - [Science](#science)
     - [Misc.](#misc)
+- [Summary Table](#summary-table)
 
 
 
@@ -518,6 +526,12 @@ This survey offers an in-depth exploration of knowledge distillation (KD) techni
 | [**DetGPT: Detect What You Need via Reasoning**](https://arxiv.org/pdf/2305.14167.pdf) | EMNLP | 2023-05 | [Github](https://detgpt.github.io) | 
 | [**Visual Instruction Tuning: A Comprehensive Study of Visual Instruction Tuning for Large Language Models**](https://arxiv.org/abs/2304.08485) | NeurIPS | 2023-04 | [Github](https://github.com/haotian-liu/LLaVA) | [Data](https://github.com/haotian-liu/LLaVA/blob/main/docs/Data.md)|
 
+<div align="center">
+  <img src="imgs/table.jpg"><br>
+  <em>Figure: A summary of representative works about skill distillation.</em>
+</div>
+<br>
+
 
 ## Verticalization Distillation
 ### Law
@@ -582,3 +596,5 @@ This survey offers an in-depth exploration of knowledge distillation (KD) techni
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**OWL: A Large Language Model for IT Operations**](https://arxiv.org/pdf/2309.09298.pdf) | arXiv | 2023-09 | [Github](https://github.com/HC-Guo/Owl) | [Data](https://github.com/HC-Guo/Owl/tree/main/OWL-Instruct/data)|
 | [**EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education**](https://arxiv.org/pdf/2308.02773.pdf) | arXiv | 2023-08 | [Github](https://github.com/ECNU-ICALK/EduChat) | [Data](https://huggingface.co/datasets/ecnu-icalk/educhat-sft-002-data-osm)    |
+
+
