@@ -52,7 +52,12 @@ If you want to use LLMs for benefitting your own smaller models training, just t
 Feel free to **open an issue/PR** or e-mail [shawnxxh@gmail.com](mailto:shawnxxh@gmail.com), [minglii@umd.edu](mailto:minglii@umd.edu), [hishentao@gmail.com](mailto:hishentao@gmail.com) and [chongyangtao@gmail.com](mailto:chongyangtao@gmail.com) if you find any missing taxonomies or papers. We will keep updating this collection and survey.
 
 ## 📝 Introduction
-This survey offers an in-depth exploration of knowledge distillation (KD) techniques within the realm of Large Language Models (LLMs), spotlighting the pivotal role of KD in transferring sophisticated capabilities from proprietary giants such as GPT-4 and Claude to accessible, open-source models like LLaMA and Mistral. Amidst the evolving AI landscape, this work elucidates the critical disparities between proprietary and open-source LLMs, demonstrating how KD serves as an essential conduit for imbuing the latter with the former's advanced functionalities and nuanced understandings. Our analysis is meticulously structured around three foundational pillars: **[algorithm](#kd-algorithms)**, **[skill](#skill-distillation)**, and **[verticalization](#verticalization-distillation)** -- providing a comprehensive examination of KD mechanisms, the enhancement of specific cognitive abilities, and their practical implications across diverse fields. Crucially, the survey navigates the intricate interplay between data augmentation (DA) and KD, illustrating how DA emerges as a powerful paradigm within the KD framework to bolster LLMs' performance. By leveraging DA to generate context-rich, skill-specific training data, KD transcends traditional boundaries, enabling open-source models to approximate the contextual adeptness, ethical alignment, and deep semantic insights characteristic of their proprietary counterparts. This work aims to provide an insightful guide for researchers and practitioners, offering a detailed overview of current methodologies in knowledge distillation and proposing future research directions. By bridging the gap between proprietary and open-source LLMs, this survey underscores the potential for more accessible, efficient, and sustainable AI solutions, fostering a more inclusive and equitable landscape in AI advancements.
+**KD of LLMs**: This survey delves into knowledge distillation (KD) techniques in Large Language Models (LLMs), highlighting KD's crucial role in transferring advanced capabilities from proprietary LLMs like GPT-4 to open-source counterparts such as LLaMA and Mistral. We also explore how KD enables the compression and self-improvement of open-source LLMs by using them as teachers. 
+
+**KD and Data Augmentation**: Crucially, the survey navigates the intricate interplay between data augmentation (DA) and KD, illustrating how DA emerges as a powerful paradigm within the KD framework to bolster LLMs' performance. By leveraging DA to generate context-rich, skill-specific training data, KD transcends traditional boundaries, enabling open-source models to approximate the contextual adeptness, ethical alignment, and deep semantic insights characteristic of their proprietary counterparts. 
+
+**Taxonomy**: Our analysis is meticulously structured around three foundational pillars: **[algorithm](#kd-algorithms)**, **[skill](#skill-distillation)**, and **[verticalization](#verticalization-distillation)** -- providing a comprehensive examination of KD mechanisms, the enhancement of specific cognitive abilities, and their practical implications across diverse fields. 
+
 
 **[KD Algorithms](#kd-algorithms)**:  For KD algorithms, we categorize it into two principal steps: "Knowledge Elicitation" focusing on eliciting knowledge from teacher LLMs, and "Distillation Algorithms" centered on injecting this knowledge into student models. 
 
@@ -68,9 +73,23 @@ This survey offers an in-depth exploration of knowledge distillation (KD) techni
 **[Verticalization Distillation](#verticalization-distillation)**: We explore the practical implications of KD across diverse fields, including law, medical & healthcare, finance, science, and miscellaneous domains.
 
 
-
-
 > Note that both [Skill Distillation]((#skill-distillation)) and [Verticalization Distillation](#verticalization-distillation) employ Knowledge Elicitation and Distillation Algorithms in [KD Algorithms](#kd-algorithms) to achieve their KD. Thus, there are overlaps between them. However, this could also provide different perspectives for the papers.
+
+
+## Why KD of LLMs?
+In the era of LLMs, KD of LLMs plays the following crucial roles:
+
+<div align="center">
+  <img src="imgs/kd_role_bg.png" width="400"><br>
+</div>
+<br>
+
+|  Role  |   Description  |   Trend   |
+|:--------|:--------:|:--------:|
+| **① Advancing Smaller Models** | Transferring advanced capabilities from proprietary LLMs to smaller models, such as open source LLMs or other smaller models. | Most common |
+| **② Compression** | Compressing open-source LLMs to make them more efficient and practical.  |  More popular with the prosperity of open-source LLMs |
+| **③ Self-Improvement** | Refining open-source LLMs' performance by leveraging their own knowledge, i.e. self-knowledge. | New trend to make open-source LLMs more competitive |
+
 
 
 
