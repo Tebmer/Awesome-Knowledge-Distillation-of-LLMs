@@ -256,6 +256,7 @@ This survey offers an in-depth exploration of knowledge distillation (KD) techni
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Revisiting Knowledge Distillation for Autoregressive Language Models**](https://arxiv.org/pdf/2402.11890.pdf) | arXiv | 2024-02 |
 | [**Orca 2: Teaching Small Language Models How to Reason**](https://arxiv.org/pdf/2311.11045.pdf) | arXiv | 2023-11 |
 | [**Wizardmath: Empowering mathematical reasoning for large language models via reinforced evol-instruct**](https://arxiv.org/abs/2308.09583) | arXiv | 2023-08 | [Github](https://github.com/nlpxucan/WizardLM)|
 | [**Orca: Progressive Learning from Complex Explanation Traces of GPT-4**](https://arxiv.org/abs/2306.02707) | arXiv | 2023-06 | 
@@ -493,7 +494,7 @@ This survey offers an in-depth exploration of knowledge distillation (KD) techni
 | [**Generative Judge for Evaluating Alignment**](https://arxiv.org/pdf/2310.05470.pdf) | ICLR | 2023-10 | [Github](https://github.com/GAIR-NLP/auto-j) | [Data](https://github.com/GAIR-NLP/auto-j)
 | [**PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization**](https://arxiv.org/abs/2306.05087) | arXiv | 2023-06 | [Github](https://github.com/WeOpenML/PandaLM)| [Data](https://github.com/WeOpenML/PandaLM)|
 | [**INSTRUCTSCORE: Explainable Text Generation Evaluation with Fine-grained Feedback**](https://arxiv.org/pdf/2305.14282.pdf) | EMNLP | 2023-05 | [Github](https://github.com/xu1998hz/InstructScore_SEScore3) | [Data](https://github.com/xu1998hz/InstructScore_SEScore3)
-
+| [**Error Analysis Prompting Enables Human-Like Translation Evaluation in Large Language Models: A Case Study on ChatGPT**](https://arxiv.org/pdf/2303.13809.pdf) | arXiv | 2023-03 | [Github](https://github.com/Coldmist-Lu/ErrorAnalysis_Prompt) |
 
 
 #### Code
