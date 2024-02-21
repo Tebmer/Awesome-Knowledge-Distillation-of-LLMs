@@ -1,6 +1,7 @@
 # Awesome Knowledge Distillation of LLM Papers
 [![Awesome](https://awesome.re/badge.svg)]() 
 ![](https://img.shields.io/badge/PRs-Welcome-red) 
+[![PDF](https://img.shields.io/badge/PDF-2402.13116-green)](https://arxiv.org/abs/2402.13116)
 
 
 
@@ -41,7 +42,7 @@ If you want to use LLMs for benefitting your own smaller models training, just t
 
 
 ## 💡 News
-- **2024-2-20**: 📃 We will release the survey paper "**A Survey on Knowledge Distillation of Large Language Models**". Welcome to read and cite it. We are looking forward to your feedback and suggestions.
+- **2024-2-20**: 📃 We released a survey paper "**[A Survey on Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2402.13116)**". Welcome to read and cite it. We are looking forward to your feedback and suggestions.
 
 
 
@@ -115,6 +116,7 @@ This survey offers an in-depth exploration of knowledge distillation (KD) techni
     - [Science](#science)
     - [Misc.](#misc)
 
+- [Citiation](#citation)
 
 
 
@@ -601,3 +603,17 @@ This survey offers an in-depth exploration of knowledge distillation (KD) techni
 | [**EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education**](https://arxiv.org/pdf/2308.02773.pdf) | arXiv | 2023-08 | [Github](https://github.com/ECNU-ICALK/EduChat) | [Data](https://huggingface.co/datasets/ecnu-icalk/educhat-sft-002-data-osm)    |
 
 
+## Citation
+
+If you find this repository helpful, please consider citing the following paper:
+
+```
+@misc{xu2024survey,
+      title={A Survey on Knowledge Distillation of Large Language Models}, 
+      author={Xiaohan Xu and Ming Li and Chongyang Tao and Tao Shen and Reynold Cheng and Jinyang Li and Can Xu and Dacheng Tao and Tianyi Zhou},
+      year={2024},
+      eprint={2402.13116},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+``````
