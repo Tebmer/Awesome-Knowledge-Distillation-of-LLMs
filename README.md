@@ -20,7 +20,7 @@ A Survey on Knowledge Distillation of Large Language Models
     Jinyang Li<sup>1</sup>&nbsp&nbsp
     Can Xu<sup>5</sup>&nbsp&nbsp
     Dacheng Tao<sup>6</sup>&nbsp&nbsp
-    Tianyi Zhang<sup>2</sup>&nbsp&nbsp
+    Tianyi Zhou<sup>2</sup>&nbsp&nbsp
 </p>  
 
 
