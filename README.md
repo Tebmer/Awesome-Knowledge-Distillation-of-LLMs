@@ -189,6 +189,7 @@ This survey offers an in-depth exploration of knowledge distillation (KD) techni
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Revisiting Knowledge Distillation for Autoregressive Language Models**](https://arxiv.org/pdf/2402.11890.pdf) | arXiv | 2024-02 |
 | [**Knowledge Fusion of Large Language Models**](https://arxiv.org/abs/2401.10491) | ICLR | 2024-01 | [Github](https://github.com/fanqiwan/FuseLLM ) 
 | [**Improving In-context Learning via Bidirectional Alignment**](https://arxiv.org/pdf/2312.17055.pdf) | arXiv | 2023-12 
 | [**Towards the Fundamental Limits of Knowledge Transfer over Finite Domains**](https://arxiv.org/abs/2310.07838) | NeurIPS | 2023-10 |
@@ -273,6 +274,7 @@ This survey offers an in-depth exploration of knowledge distillation (KD) techni
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Revisiting Knowledge Distillation for Autoregressive Language Models**](https://arxiv.org/pdf/2402.11890.pdf) | arXiv | 2024-02 |
 | [**Knowledge Distillation for Closed-Source Language Models**](https://arxiv.org/pdf/2401.07013.pdf) | arXiv | 2024-01 | 
 | [**Knowledge Fusion of Large Language Models**](https://arxiv.org/abs/2401.10491) | ICLR | 2024-01 | [Github](https://github.com/fanqiwan/FuseLLM ) 
 | [**Improving In-context Learning via Bidirectional Alignment**](https://arxiv.org/pdf/2312.17055.pdf) | arXiv | 2023-12 
@@ -320,6 +322,7 @@ This survey offers an in-depth exploration of knowledge distillation (KD) techni
 #### Instruction Following
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Revisiting Knowledge Distillation for Autoregressive Language Models**](https://arxiv.org/pdf/2402.11890.pdf) | arXiv | 2024-02 |
 | [**Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning**](https://arxiv.org/abs/2402.10110) | arXiv | 2024-02 | [Github](https://github.com/tianyi-lab/Reflection_Tuning) | [Data](https://github.com/tianyi-lab/Reflection_Tuning)|
 | [**Phi-2: The surprising power of small language models**](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/) | - | 2023-12 |
 | [**What Makes Good Data for Alignment? A Comprehensive Study of Automatic Data Selection in Instruction Tuning**](https://arxiv.org/abs/2312.15685) | ICLR | 2023-12 | [Github](https://github.com/hkust-nlp/deita) | [Data](https://github.com/hkust-nlp/deita)|
@@ -493,7 +496,6 @@ This survey offers an in-depth exploration of knowledge distillation (KD) techni
 | [**Generative Judge for Evaluating Alignment**](https://arxiv.org/pdf/2310.05470.pdf) | ICLR | 2023-10 | [Github](https://github.com/GAIR-NLP/auto-j) | [Data](https://github.com/GAIR-NLP/auto-j)
 | [**PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization**](https://arxiv.org/abs/2306.05087) | arXiv | 2023-06 | [Github](https://github.com/WeOpenML/PandaLM)| [Data](https://github.com/WeOpenML/PandaLM)|
 | [**INSTRUCTSCORE: Explainable Text Generation Evaluation with Fine-grained Feedback**](https://arxiv.org/pdf/2305.14282.pdf) | EMNLP | 2023-05 | [Github](https://github.com/xu1998hz/InstructScore_SEScore3) | [Data](https://github.com/xu1998hz/InstructScore_SEScore3)
-
 
 
 #### Code
