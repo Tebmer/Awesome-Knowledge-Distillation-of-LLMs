@@ -189,6 +189,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 #### Curation
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models**](https://arxiv.org/abs/2402.13064) | arXiv | 2024-02 |
 | [**Phi-2: The surprising power of small language models**](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/) | - | 2023-12 |
 | [**WaveCoder: Widespread And Versatile Enhanced Instruction Tuning with Refined Data Generation**](https://arxiv.org/abs/2312.14187) | arXiv | 2023-12 |
 | [**Magicoder: Source Code Is All You Need**](https://arxiv.org/pdf/2312.02120.pdf) | arXiv | 2023-12 | [Github](https://github.com/ise-uiuc/magicoder) | [Data](https://huggingface.co/datasets/ise-uiuc/Magicoder-OSS-Instruct-75K) <br> [Data](https://huggingface.co/datasets/ise-uiuc/Magicoder-Evol-Instruct-110K)|
@@ -276,6 +277,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models**](https://arxiv.org/abs/2402.13064) | arXiv | 2024-02 |
 | [**Orca 2: Teaching Small Language Models How to Reason**](https://arxiv.org/pdf/2311.11045.pdf) | arXiv | 2023-11 |
 | [**Wizardmath: Empowering mathematical reasoning for large language models via reinforced evol-instruct**](https://arxiv.org/abs/2308.09583) | arXiv | 2023-08 | [Github](https://github.com/nlpxucan/WizardLM)|
 | [**Orca: Progressive Learning from Complex Explanation Traces of GPT-4**](https://arxiv.org/abs/2306.02707) | arXiv | 2023-06 | 
@@ -341,6 +343,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 #### Instruction Following
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models**](https://arxiv.org/abs/2402.13064) | arXiv | 2024-02 |
 | [**Revisiting Knowledge Distillation for Autoregressive Language Models**](https://arxiv.org/pdf/2402.11890.pdf) | arXiv | 2024-02 |
 | [**Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning**](https://arxiv.org/abs/2402.10110) | arXiv | 2024-02 | [Github](https://github.com/tianyi-lab/Reflection_Tuning) | [Data](https://github.com/tianyi-lab/Reflection_Tuning)|
 | [**Phi-2: The surprising power of small language models**](https://www.microsoft.com/en-us/research/blog/phi-2-the-surprising-power-of-small-language-models/) | - | 2023-12 |
