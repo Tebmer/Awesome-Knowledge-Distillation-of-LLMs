@@ -137,7 +137,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
     - [Science](#science)
     - [Misc.](#misc)
 
-- [Citiation](#citation)
+- [Citation](#citation)
 
 
 
