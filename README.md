@@ -40,7 +40,7 @@ A Survey on Knowledge Distillation of Large Language Models
 *A collection of papers related to knowledge distillation of large language models (LLMs). 
 If you want to use LLMs for benefitting your own smaller models training, just take a look at this collection.*
 
-> ❗️Legal Consideration: It's crucial to note the legal implications of utilizing LLM outputs, such as those from ChatGPT ([Restrictions](https://openai.com/policies/business-terms)), Llama ([License](https://llama.meta.com/llama-downloads/)), etc. We strongly advise users to adhere to the terms of use specified by the model providers, such as the restrictions on developing competitive products, and so on. This underscores the importance of understanding and complying with legal guidelines when employing KD techniques with LLMs.
+> ❗️Legal Consideration: It's crucial to note the legal implications of utilizing LLM outputs, such as those from ChatGPT ([Restrictions](https://openai.com/policies/business-terms)), Llama ([License](https://llama.meta.com/llama-downloads/)), etc. We strongly advise users to adhere to the terms of use specified by the model providers, such as the restrictions on developing competitive products, and so on.
 
 
 ## 💡 News
