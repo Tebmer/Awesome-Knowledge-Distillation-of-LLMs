@@ -146,6 +146,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 #### Labeling
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**KnowTuning: Knowledge-aware Fine-tuning for Large Language Models**](https://arxiv.org/pdf/2402.11176.pdf) | arXiv | 2024-02 | [Github](https://github.com/youganglyu/KnowTuning) |
 | [**Mixed Distillation Helps Smaller Language Model Better Reasoning**](https://arxiv.org/pdf/2312.10730.pdf) | arXiv | 2023-12 |
 | [**Tailoring Self-Rationalizers with Multi-Reward Distillation**](https://arxiv.org/pdf/2311.02805.pdf) | arXiv | 2023-11 | [Github](https://inklab.usc.edu/MaRio/)| [Data](https://inklab.usc.edu/MaRio/)|
 | [**Orca 2: Teaching Small Language Models How to Reason**](https://arxiv.org/pdf/2311.11045.pdf) | arXiv | 2023-11 |
@@ -334,6 +335,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**KnowTuning: Knowledge-aware Fine-tuning for Large Language Models**](https://arxiv.org/pdf/2402.11176.pdf) | arXiv | 2024-02 | [Github](https://github.com/youganglyu/KnowTuning) |
 | [**Self-Rewarding Language Models**](https://arxiv.org/pdf/2401.10020.pdf) | arXiv | 2024-01 | [Github](https://github.com/lucidrains/self-rewarding-lm-pytorch?tab=readme-ov-file    )|
 | [**Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**](https://arxiv.org/pdf/2401.01335.pdf) | arXiv | 2024-01 | [Github](https://github.com/uclaml/SPIN) | [Data](https://huggingface.co/datasets/UCLA-AGI/SPIN_iter0)|
 | [**Zephyr: Direct Distillation of Language Model Alignment**](https://arxiv.org/pdf/2310.16944.pdf) | arXiv | 2023-10 | [Github](https://github.com/huggingface/alignment-handbook ) |  [Data](https://huggingface.co/datasets/HuggingFaceH4/ultrachat_200k)|
