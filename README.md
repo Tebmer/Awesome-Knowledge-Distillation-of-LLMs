@@ -212,7 +212,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Towards Cross-Tokenizer Distillation: the Universal Logit Distillation Loss for LLMs**](https://arxiv.org/pdf/2402.12030.pdf) | arXiv | 2024-02 |
+| [**Towards Cross-Tokenizer Distillation: the Universal Logit Distillation Loss for LLMs**](https://arxiv.org/pdf/2402.12030.pdf) | arXiv | 2024-02 | [Github](https://github.com/Nicolas-BZRD/llm-recipes) | [Data](https://huggingface.co/Nicolas-BZRD)|
 | [**Revisiting Knowledge Distillation for Autoregressive Language Models**](https://arxiv.org/pdf/2402.11890.pdf) | arXiv | 2024-02 |
 | [**Knowledge Fusion of Large Language Models**](https://arxiv.org/abs/2401.10491) | ICLR | 2024-01 | [Github](https://github.com/fanqiwan/FuseLLM ) 
 | [**Improving In-context Learning via Bidirectional Alignment**](https://arxiv.org/pdf/2312.17055.pdf) | arXiv | 2023-12 
@@ -299,7 +299,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Towards Cross-Tokenizer Distillation: the Universal Logit Distillation Loss for LLMs**](https://arxiv.org/pdf/2402.12030.pdf) | arXiv | 2024-02 |
+| [**Towards Cross-Tokenizer Distillation: the Universal Logit Distillation Loss for LLMs**](https://arxiv.org/pdf/2402.12030.pdf) | arXiv | 2024-02 | [Github](https://github.com/Nicolas-BZRD/llm-recipes) | [Data](https://huggingface.co/Nicolas-BZRD)|
 | [**Revisiting Knowledge Distillation for Autoregressive Language Models**](https://arxiv.org/pdf/2402.11890.pdf) | arXiv | 2024-02 |
 | [**Knowledge Distillation for Closed-Source Language Models**](https://arxiv.org/pdf/2401.07013.pdf) | arXiv | 2024-01 | 
 | [**Knowledge Fusion of Large Language Models**](https://arxiv.org/abs/2401.10491) | ICLR | 2024-01 | [Github](https://github.com/fanqiwan/FuseLLM ) 
