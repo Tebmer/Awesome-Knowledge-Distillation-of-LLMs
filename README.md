@@ -33,7 +33,7 @@ A Survey on Knowledge Distillation of Large Language Models
 <sup>6</sup> The University of Sydney
 </p>
 <div align="center">
-  <img src="imgs/framework.png" width="600"><br>
+  <img src="imgs/framework.png" width="700"><br>
 </div>
 <br>
 
