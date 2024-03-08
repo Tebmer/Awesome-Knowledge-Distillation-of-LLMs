@@ -38,7 +38,7 @@ A Survey on Knowledge Distillation of Large Language Models
 <br>
 
 *A collection of papers related to knowledge distillation of large language models (LLMs). 
-If you want to use LLMs for benefitting your own smaller models training and use self-generated knowledge to achieve the self-improvement, just take a look at this collection.*
+If you want to use LLMs for benefitting your own smaller models training, or use self-generated knowledge to achieve the self-improvement, just take a look at this collection.*
 
 ***We will update this collection every week. Welcome to star ⭐️ this repo to keep track of the updates.***
 
