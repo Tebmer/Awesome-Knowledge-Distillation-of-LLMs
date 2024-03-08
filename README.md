@@ -12,8 +12,8 @@ A Survey on Knowledge Distillation of Large Language Models
 
 
 <p align="center">
-  Xiaohan Xu<sup>1</sup>&nbsp&nbsp
     Ming Li<sup>2</sup>&nbsp&nbsp
+  Xiaohan Xu<sup>1</sup>&nbsp&nbsp
     Chongyang Tao<sup>3</sup>&nbsp&nbsp
     Tao Shen<sup>4</sup>&nbsp&nbsp
     Reynold Cheng<sup>1</sup>&nbsp&nbsp
@@ -33,12 +33,14 @@ A Survey on Knowledge Distillation of Large Language Models
 <sup>6</sup> The University of Sydney
 </p>
 <div align="center">
-  <img src="imgs/cover.png" width="400"><br>
+  <img src="imgs/framework.png" width="600"><br>
 </div>
 <br>
 
 *A collection of papers related to knowledge distillation of large language models (LLMs). 
-If you want to use LLMs for benefitting your own smaller models training, just take a look at this collection.*
+If you want to use LLMs for benefitting your own smaller models training and use self-generated knowledge to achieve the self-improvement, just take a look at this collection.*
+
+***We will update this collection every week. Welcome to star ⭐️ this repo to keep track of the updates.***
 
 > ❗️Legal Consideration: It's crucial to note the legal implications of utilizing LLM outputs, such as those from ChatGPT ([Restrictions](https://openai.com/policies/business-terms)), Llama ([License](https://llama.meta.com/llama-downloads/)), etc. We strongly advise users to adhere to the terms of use specified by the model providers, such as the restrictions on developing competitive products, and so on.
 
