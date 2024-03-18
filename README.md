@@ -214,6 +214,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**DISTILLM: Towards Streamlined Distillation for Large Language Models**](https://arxiv.org/pdf/2402.03898.pdf) | arXiv | 2024-02 | [Github](https://github.com/jongwooko/distillm) |
 | [**Towards Cross-Tokenizer Distillation: the Universal Logit Distillation Loss for LLMs**](https://arxiv.org/pdf/2402.12030.pdf) | arXiv | 2024-02 | [Github](https://github.com/Nicolas-BZRD/llm-recipes) | [Data](https://huggingface.co/Nicolas-BZRD)|
 | [**Revisiting Knowledge Distillation for Autoregressive Language Models**](https://arxiv.org/pdf/2402.11890.pdf) | arXiv | 2024-02 |
 | [**Knowledge Fusion of Large Language Models**](https://arxiv.org/abs/2401.10491) | ICLR | 2024-01 | [Github](https://github.com/fanqiwan/FuseLLM ) 
@@ -251,6 +252,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 #### Self-Knowledge
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**DISTILLM: Towards Streamlined Distillation for Large Language Models**](https://arxiv.org/pdf/2402.03898.pdf) | arXiv | 2024-02 | [Github](https://github.com/jongwooko/distillm) |
 | [**V-STaR: Training Verifiers for Self-Taught Reasoners**](https://arxiv.org/pdf/2402.06457.pdf) | arXiv | 2024-02 
 | [**Self-Rewarding Language Models**](https://arxiv.org/pdf/2401.10020.pdf) | arXiv | 2024-01 | [Github](https://github.com/lucidrains/self-rewarding-lm-pytorch?tab=readme-ov-file    )|
 | [**Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**](https://arxiv.org/pdf/2401.01335.pdf) | arXiv | 2024-01 | [Github](https://github.com/uclaml/SPIN) | [Data](https://huggingface.co/datasets/UCLA-AGI/SPIN_iter0)|
@@ -262,6 +264,8 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 | [**Reinforced Self-Training (ReST) for Language Modeling**](https://arxiv.org/pdf/2308.08998.pdf) | arXiv | 2023-08 
 | [**Humback: Self-Alignment with Instruction Backtranslation**](https://arxiv.org/pdf/2308.06259.pdf) | ICLR | 2023-08 | [Github](https://github.com/Spico197/Humback)
 | [**Self-Alignment of Large Language Models via Reinforcement Learning from Contrast Distillation**](https://arxiv.org/pdf/2307.12950.pdf) | ICLR | 2023-07 | [Github](https://github.com/facebookresearch/rlcd)|
+| [**On-Policy Distillation of Language Models: Learning from Self-Generated Mistakes**](https://arxiv.org/pdf/2306.13649.pdf) | ICLR | 2023-06 |
+| [**MiniLLM: Knowledge Distillation of Large Language Models**](https://arxiv.org/pdf/2306.08543.pdf) | ICLR | 2023-06 | [Github](https://github.com/microsoft/LMOps/tree/main/minillm) | [Data](https://github.com/microsoft/LMOps/tree/main/minillm) |
 | [**Self-Improvement of Large Language Models via Reinforcement Learning from Human Feedback**](https://arxiv.org/pdf/2306.14050.pdf) | EMNLP | 2023-06 | 
 | [**Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision**](https://proceedings.neurips.cc/paper/2023/hash/0764db1151b936aca59249e2c1386101-Abstract-Conference.html) | NeurIPS | 2023-05 | [Github](https://github.com/IBM/Dromedary) | [Data](https://huggingface.co/datasets/zhiqings/dromedary-65b-verbose-clone-v0)|
 | [**Impossible Distillation: from Low-Quality Model to High-Quality Dataset & Model for Summarization and Paraphrasing**](https://arxiv.org/abs/2305.16635) | arXiv | 2023-05 | [Github](https://github.com/jaehunjung1/impossible-distillation)|
@@ -301,6 +305,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**DISTILLM: Towards Streamlined Distillation for Large Language Models**](https://arxiv.org/pdf/2402.03898.pdf) | arXiv | 2024-02 | [Github](https://github.com/jongwooko/distillm) |
 | [**Towards Cross-Tokenizer Distillation: the Universal Logit Distillation Loss for LLMs**](https://arxiv.org/pdf/2402.12030.pdf) | arXiv | 2024-02 | [Github](https://github.com/Nicolas-BZRD/llm-recipes) | [Data](https://huggingface.co/Nicolas-BZRD)|
 | [**Revisiting Knowledge Distillation for Autoregressive Language Models**](https://arxiv.org/pdf/2402.11890.pdf) | arXiv | 2024-02 |
 | [**Knowledge Distillation for Closed-Source Language Models**](https://arxiv.org/pdf/2401.07013.pdf) | arXiv | 2024-01 | 
