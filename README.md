@@ -48,7 +48,8 @@ If you want to use LLMs for benefitting your own smaller models training, or use
 ## 💡 News
 - **2024-2-20**: 📃 We released a survey paper "**[A Survey on Knowledge Distillation of Large Language Models](https://arxiv.org/abs/2402.13116)**". Welcome to read and cite it. We are looking forward to your feedback and suggestions.
 
-
+- Update Log
+  - **2024-3-19**: Add 14 papers.
 
 
 ## Contributing to This Collection
