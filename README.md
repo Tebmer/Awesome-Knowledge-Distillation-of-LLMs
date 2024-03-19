@@ -148,7 +148,12 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 #### Labeling
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering**](https://arxiv.org/pdf/2403.02966.pdf) | arXiv | 2024-03 |
+| [**Aligning Large and Small Language Models via Chain-of-Thought Reasoning**](https://aclanthology.org/2024.eacl-long.109.pdf) | EACL | 2024-03 | [Github](https://aclanthology.org/2024.eacl-long.109.pdf https://github.com/lranaldii/Aligning_LLMs) |
+| [**Divide-or-Conquer? Which Part Should You Distill Your LLM?**](https://arxiv.org/pdf/2402.15000.pdf) | arXiv | 2024-02 |
+| [**Miko: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery**](https://arxiv.org/pdf/2402.18169.pdf) | arXiv | 2024-02 |
 | [**KnowTuning: Knowledge-aware Fine-tuning for Large Language Models**](https://arxiv.org/pdf/2402.11176.pdf) | arXiv | 2024-02 | [Github](https://github.com/youganglyu/KnowTuning) |
+| [**TinyLLM: Learning a Small Student from Multiple Large Language Models**](https://arxiv.org/pdf/2402.04616.pdf) | arXiv | 2024-02 | 
 | [**Mixed Distillation Helps Smaller Language Model Better Reasoning**](https://arxiv.org/pdf/2312.10730.pdf) | arXiv | 2023-12 |
 | [**Tailoring Self-Rationalizers with Multi-Reward Distillation**](https://arxiv.org/pdf/2311.02805.pdf) | arXiv | 2023-11 | [Github](https://inklab.usc.edu/MaRio/)| [Data](https://inklab.usc.edu/MaRio/)|
 | [**Orca 2: Teaching Small Language Models How to Reason**](https://arxiv.org/pdf/2311.11045.pdf) | arXiv | 2023-11 |
@@ -176,6 +181,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Instruction Fusion: Advancing Prompt Evolution through Hybridization**](https://arxiv.org/pdf/2312.15692.pdf) | arXiv | 2023-12 | 
 | [**An Empirical Study of Instruction-tuning Large Language Models in Chinese**](https://arxiv.org/pdf/2310.07328.pdf) | EMNLP | 2023-10 | [Github](https://github.com/PhoebusSi/Alpaca-CoT)| [Data](https://huggingface.co/datasets/QingyiSi/Alpaca-CoT)|
+| [**PromptMix: A Class Boundary Augmentation Method for Large Language Model Distillation**](https://arxiv.org/pdf/2310.14192.pdf) | EMNLP | 2023-10 | [Github](https://github.com/ServiceNow/PromptMix-EMNLP-2023) |
 | [**Wizardmath: Empowering mathematical reasoning for large language models via reinforced evol-instruct**](https://arxiv.org/abs/2308.09583) | arXiv | 2023-08 | [Github](https://github.com/nlpxucan/WizardLM)|
 | [**Code Llama: Open Foundation Models for Code**](https://arxiv.org/pdf/2308.12950.pdf) | arXiv | 2023-08 | [Github](https://github.com/facebookresearch/codellama)| 
 | [**WizardCoder: Empowering Code Large Language Models with Evol-Instruct**](https://arxiv.org/abs/2306.08568) | ICLR | 2023-06 | [Github](https://github.com/nlpxucan/WizardLM) |
@@ -214,6 +220,9 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Direct Alignment of Draft Model for Speculative Decoding with Chat-Fine-Tuned LLMs**](https://arxiv.org/pdf/2403.00858.pdf) | arXiv | 2024-03 |
+| [**DB-LLM: Accurate Dual-Binarization for Efficient LLMs**](https://arxiv.org/pdf/2402.11960.pdf) | arXiv | 2024-02 | 
+| [**BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation**](https://arxiv.org/pdf/2402.10631.pdf) | arXiv | 2024-02 | [Github](https://github.com/DD-DuDa/BitDistiller) |
 | [**DISTILLM: Towards Streamlined Distillation for Large Language Models**](https://arxiv.org/pdf/2402.03898.pdf) | arXiv | 2024-02 | [Github](https://github.com/jongwooko/distillm) |
 | [**Towards Cross-Tokenizer Distillation: the Universal Logit Distillation Loss for LLMs**](https://arxiv.org/pdf/2402.12030.pdf) | arXiv | 2024-02 | [Github](https://github.com/Nicolas-BZRD/llm-recipes) | [Data](https://huggingface.co/Nicolas-BZRD)|
 | [**Revisiting Knowledge Distillation for Autoregressive Language Models**](https://arxiv.org/pdf/2402.11890.pdf) | arXiv | 2024-02 |
@@ -231,9 +240,13 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 #### Feedback
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering**](https://arxiv.org/pdf/2403.02966.pdf) | arXiv | 2024-03 |
+| [**Evolving Knowledge Distillation with Large Language Models and Active Learning**](https://arxiv.org/pdf/2403.06414v1.pdf) | arXiv | 2024-03 |
+| [**Direct Language Model Alignment from Online AI Feedback**](https://arxiv.org/pdf/2402.04792.pdf) | arXiv | 2024-02 | 
 | [**DISTILLM: Towards Streamlined Distillation for Large Language Models**](https://arxiv.org/pdf/2402.03898.pdf) | arXiv | 2024-02 | [Github](https://github.com/jongwooko/distillm) |
 | [**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**](https://arxiv.org/pdf/2401.06081.pdf) | arXiv | 2024-01 | [Github](https://github.com/RUCAIBox/RLMEC)
 | [**Beyond Imitation: Leveraging Fine-grained Quality Signals for Alignment**](https://arxiv.org/pdf/2311.04072.pdf) | arXiv | 2023-11 | 
+| [**Can Language Models Teach Weaker Agents? Teacher Explanations Improve Students via Personalization**](https://arxiv.org/abs/2310.02421) | ICLR | 2023-10 | [Github](https://github.com/swarnaHub/ExplanationIntervention) |
 | [**Motif: Intrinsic Motivation from Artificial Intelligence Feedback**](https://arxiv.org/abs/2310.00166) | ICLR | 2023-10 | [Github](https://github.com/facebookresearch/motif) |
 | [**Ultrafeedback: Boosting language models with high-quality feedback**](https://arxiv.org/pdf/2310.01377.pdf) | arXiv | 2023-10 | [Github](https://github.com/thunlp/UltraFeedback) | [Data](https://huggingface.co/datasets/openbmb/UltraFeedback)|
 | [**Personalised Distillation: Empowering Open-Sourced LLMs with Adaptive Learning for Code Generation**](https://arxiv.org/pdf/2310.18628.pdf) | EMNLP | 2023-10 | [Github](https://github.com/SalesforceAIResearch/PersDistill)|
@@ -262,6 +275,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 | [**APT: Adaptive Pruning and Tuning Pretrained Language Models for Efficient Training and Inference**](https://arxiv.org/pdf/2401.12200.pdf) | arXiv | 2024-01 |
 | [**GRATH: Gradual Self-Truthifying for Large Language Models**](https://arxiv.org/abs/2401.12292) | arXiv | 2024-01 | 
 | [**Beyond human data: Scaling self-training for problem-solving with language models**](https://arxiv.org/pdf/2312.06585.pdf) | arXiv | 2023-12 
+| [**Self-Knowledge Guided Retrieval Augmentation for Large Language Models**](https://arxiv.org/abs/2310.05002) | EMNLP Findings | 2023-10 | [Github](https://github.com/THUNLP-MT/SKR) |
 | [**RAIN: Your Language Models Can Align Themselves without Finetuning**](https://arxiv.org/pdf/2309.07124.pdf) | arXiv | 2023-09 | [Github](https://github.com/SafeAILab/RAIN) 
 | [**Reinforced Self-Training (ReST) for Language Modeling**](https://arxiv.org/pdf/2308.08998.pdf) | arXiv | 2023-08 
 | [**Humback: Self-Alignment with Instruction Backtranslation**](https://arxiv.org/pdf/2308.06259.pdf) | ICLR | 2023-08 | [Github](https://github.com/Spico197/Humback)
@@ -287,8 +301,12 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering**](https://arxiv.org/pdf/2403.02966.pdf) | arXiv | 2024-03 |
+| [**Aligning Large and Small Language Models via Chain-of-Thought Reasoning**](https://aclanthology.org/2024.eacl-long.109.pdf) | EACL | 2024-03 | [Github](https://aclanthology.org/2024.eacl-long.109.pdf https://github.com/lranaldii/Aligning_LLMs) |
+| [**Divide-or-Conquer? Which Part Should You Distill Your LLM?**](https://arxiv.org/pdf/2402.15000.pdf) | arXiv | 2024-02 |
 | [**Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models**](https://arxiv.org/abs/2402.13064) | arXiv | 2024-02 |
 | [**Orca 2: Teaching Small Language Models How to Reason**](https://arxiv.org/pdf/2311.11045.pdf) | arXiv | 2023-11 |
+| [**TinyLLM: Learning a Small Student from Multiple Large Language Models**](https://arxiv.org/pdf/2402.04616.pdf) | arXiv | 2024-02 | 
 | [**Wizardmath: Empowering mathematical reasoning for large language models via reinforced evol-instruct**](https://arxiv.org/abs/2308.09583) | arXiv | 2023-08 | [Github](https://github.com/nlpxucan/WizardLM)|
 | [**Orca: Progressive Learning from Complex Explanation Traces of GPT-4**](https://arxiv.org/abs/2306.02707) | arXiv | 2023-06 | 
 | [**LaMini-LM: A Diverse Herd of Distilled Models from Large-Scale Instructions**](https://arxiv.org/abs/2304.14402) | arXiv | 2023-04 | [Github](https://github.com/mbzuai-nlp/LaMini-LM?tab=readme-ov-file) | [Data](https://huggingface.co/datasets/MBZUAI/LaMini-instruction)|
@@ -305,6 +323,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation**](https://arxiv.org/pdf/2402.10631.pdf) | arXiv | 2024-02 | [Github](https://github.com/DD-DuDa/BitDistiller) |
 | [**DISTILLM: Towards Streamlined Distillation for Large Language Models**](https://arxiv.org/pdf/2402.03898.pdf) | arXiv | 2024-02 | [Github](https://github.com/jongwooko/distillm) |
 | [**Towards Cross-Tokenizer Distillation: the Universal Logit Distillation Loss for LLMs**](https://arxiv.org/pdf/2402.12030.pdf) | arXiv | 2024-02 | [Github](https://github.com/Nicolas-BZRD/llm-recipes) | [Data](https://huggingface.co/Nicolas-BZRD)|
 | [**Revisiting Knowledge Distillation for Autoregressive Language Models**](https://arxiv.org/pdf/2402.11890.pdf) | arXiv | 2024-02 |
@@ -326,6 +345,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Direct Language Model Alignment from Online AI Feedback**](https://arxiv.org/pdf/2402.04792.pdf) | arXiv | 2024-02 | 
 | [**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**](https://arxiv.org/pdf/2401.06081.pdf) | arXiv | 2024-01 | [Github](https://github.com/RUCAIBox/RLMEC)
 | [**Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models**](https://arxiv.org/abs/2311.02379) | CoRL | 2023-11 |
 | [**Motif: Intrinsic Motivation from Artificial Intelligence Feedback**](https://arxiv.org/abs/2310.00166) | ICLR | 2023-10 | [Github](https://github.com/facebookresearch/motif) |
@@ -343,6 +363,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering**](https://arxiv.org/pdf/2403.02966.pdf) | arXiv | 2024-03 |
 | [**KnowTuning: Knowledge-aware Fine-tuning for Large Language Models**](https://arxiv.org/pdf/2402.11176.pdf) | arXiv | 2024-02 | [Github](https://github.com/youganglyu/KnowTuning) |
 | [**Self-Rewarding Language Models**](https://arxiv.org/pdf/2401.10020.pdf) | arXiv | 2024-01 | [Github](https://github.com/lucidrains/self-rewarding-lm-pytorch?tab=readme-ov-file    )|
 | [**Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**](https://arxiv.org/pdf/2401.01335.pdf) | arXiv | 2024-01 | [Github](https://github.com/uclaml/SPIN) | [Data](https://huggingface.co/datasets/UCLA-AGI/SPIN_iter0)|
@@ -399,6 +420,8 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 #### Thinking Pattern
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Aligning Large and Small Language Models via Chain-of-Thought Reasoning**](https://aclanthology.org/2024.eacl-long.109.pdf) | EACL | 2024-03 | [Github](https://aclanthology.org/2024.eacl-long.109.pdf https://github.com/lranaldii/Aligning_LLMs) |
+| [**Divide-or-Conquer? Which Part Should You Distill Your LLM?**](https://arxiv.org/pdf/2402.15000.pdf) | arXiv | 2024-02 |
 | [**Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning**](https://arxiv.org/abs/2402.10110) | arXiv | 2024-02 | [Github](https://github.com/tianyi-lab/Reflection_Tuning) | [Data](https://github.com/tianyi-lab/Reflection_Tuning)|
 | [**Can LLMs Speak For Diverse People? Tuning LLMs via Debate to Generate Controllable Controversial Statements**](https://arxiv.org/abs/2402.10614) | arXiv | 2024-02 | [Github](https://github.com/tianyi-lab/DEBATunE) | [Data](https://github.com/tianyi-lab/DEBATunE)|
 | [**Knowledgeable Preference Alignment for LLMs in Domain-specific Question Answering**](https://arxiv.org/abs/2311.06503) | arXiv | 2023-11 | [Github](https://github.com/zjukg/KnowPAT) |
@@ -473,7 +496,11 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**LLM vs Small Model? Large Language Model Based Text Augmentation Enhanced Personality Detection Model**](https://arxiv.org/pdf/2403.07581v1.pdf) | arXiv | 2024-03 |
+| [**Evolving Knowledge Distillation with Large Language Models and Active Learning**](https://arxiv.org/pdf/2403.06414v1.pdf) | arXiv | 2024-03 |
 | [**Mixed Distillation Helps Smaller Language Model Better Reasoning**](https://arxiv.org/pdf/2312.10730.pdf) | arXiv | 2023-12 |
+| [**PromptMix: A Class Boundary Augmentation Method for Large Language Model Distillation**](https://arxiv.org/pdf/2310.14192.pdf) | EMNLP | 2023-10 | [Github](https://github.com/ServiceNow/PromptMix-EMNLP-2023) |
+| [**TinyLLM: Learning a Small Student from Multiple Large Language Models**](https://arxiv.org/pdf/2402.04616.pdf) | arXiv | 2024-02 | 
 | [**Targeted Data Generation: Finding and Fixing Model Weaknesses**](https://arxiv.org/pdf/2305.17804.pdf) | ACL | 2023-05 | [Github](https://github.com/ZexueHe/TDG)| 
 | [**Distilling ChatGPT for Explainable Automated Student Answer Assessment**](https://arxiv.org/pdf/2305.12962.pdf) | arXiv | 2023-05 | [Github](https://github.com/lijiazheng99/aera) |
 | [**ChatGPT outperforms crowd workers for text-annotation tasks**](https://arxiv.org/pdf/2303.15056.pdf) | arXiv | 2023-03 | 
@@ -520,6 +547,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 #### Recommendation
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Can Small Language Models be Good Reasoners for Sequential Recommendation?**](https://arxiv.org/pdf/2403.04260.pdf) | arXiv | 2024-03 | 
 | [**Large Language Model Augmented Narrative Driven Recommendations**](https://arxiv.org/pdf/2306.02250.pdf) | arXiv | 2023-06 | 
 | [**Recommendation as Instruction Following: A Large Language Model Empowered Recommendation Approach**](https://arxiv.org/pdf/2305.07001.pdf) | arXiv | 2023-05 |
 | [**ONCE: Boosting Content-based Recommendation with Both Open- and Closed-source Large Language Models**](https://arxiv.org/pdf/2305.06566.pdf) | WSDM | 2023-05 | [Github](https://github.com/Jyonn/ONCE) | [Data](https://github.com/Jyonn/ONCE/releases/tag/Dataset)
@@ -554,6 +582,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 ### Multi-Modality
 | Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Miko: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery**](https://arxiv.org/pdf/2402.18169.pdf) | arXiv | 2024-02 |
 | [**Localizing Visual Commonsense Knowledge in Large Language Models**](https://arxiv.org/abs/2312.04837) | NeurIPS | 2023-12 | [Github](https://github.com/jamespark3922/localized-skd) | [Data](https://github.com/jamespark3922/localized-skd?tab=readme-ov-file) |
 | [**To See is to Believe: Prompting GPT-4V for Better Visual Instruction Tuning**](https://arxiv.org/pdf/2311.07574.pdf) | arXiv | 2023-11 | [Github](https://github.com/X2FD/LVIS-INSTRUCT4V ) | [Data](https://github.com/X2FD/LVIS-INSTRUCT4V) | 
 | [**ILuvUI: Instruction-tuned LangUage-Vision modeling of UIs from Machine Conversations**](https://arxiv.org/pdf/2310.04869.pdf) | arXiv | 2023-10 |
@@ -613,6 +642,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**MuseGraph: Graph-oriented Instruction Tuning of Large Language Models for Generic Graph Mining**](https://arxiv.org/pdf/2403.04780.pdf) | arXiv | 2024-03 | 
 | [**SciGLM: Training Scientific Language Models with Self-Reflective Instruction Annotation and Tuning**](https://arxiv.org/pdf/2401.07950.pdf) | arXiv | 2024-01 | [Github](https://github.com/THUDM/SciGLM) | 
 | [**AstroLLaMA-Chat: Scaling AstroLLaMA with Conversational and Diverse Datasets**](https://arxiv.org/pdf/2401.01916.pdf) | arXiv | 2024-01 
 | [**GeoGalactica: A Scientific Large Language Model in Geoscience**](https://arxiv.org/pdf/2401.00434.pdf) | arXiv | 2024-01 | [Github](https://github.com/geobrain-ai/geogalactica) | [Data](https://huggingface.co/datasets/daven3/geobench)
