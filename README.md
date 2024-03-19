@@ -234,7 +234,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 | [**DISTILLM: Towards Streamlined Distillation for Large Language Models**](https://arxiv.org/pdf/2402.03898.pdf) | arXiv | 2024-02 | [Github](https://github.com/jongwooko/distillm) |
 | [**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**](https://arxiv.org/pdf/2401.06081.pdf) | arXiv | 2024-01 | [Github](https://github.com/RUCAIBox/RLMEC)
 | [**Beyond Imitation: Leveraging Fine-grained Quality Signals for Alignment**](https://arxiv.org/pdf/2311.04072.pdf) | arXiv | 2023-11 | 
-| [**Motif: Intrinsic Motivation from Artificial Intelligence Feedback**](https://arxiv.org/abs/2310.00166) | arXiv | 2023-10 | [Github](https://github.com/facebookresearch/motif) |
+| [**Motif: Intrinsic Motivation from Artificial Intelligence Feedback**](https://arxiv.org/abs/2310.00166) | ICLR | 2023-10 | [Github](https://github.com/facebookresearch/motif) |
 | [**Ultrafeedback: Boosting language models with high-quality feedback**](https://arxiv.org/pdf/2310.01377.pdf) | arXiv | 2023-10 | [Github](https://github.com/thunlp/UltraFeedback) | [Data](https://huggingface.co/datasets/openbmb/UltraFeedback)|
 | [**Personalised Distillation: Empowering Open-Sourced LLMs with Adaptive Learning for Code Generation**](https://arxiv.org/pdf/2310.18628.pdf) | EMNLP | 2023-10 | [Github](https://github.com/SalesforceAIResearch/PersDistill)|
 | [**CycleAlign: Iterative Distillation from Black-box LLM to White-box Models for Better Human Alignment**](https://arxiv.org/abs/2310.16271) | arXiv | 2023-10 
@@ -328,7 +328,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**](https://arxiv.org/pdf/2401.06081.pdf) | arXiv | 2024-01 | [Github](https://github.com/RUCAIBox/RLMEC)
 | [**Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models**](https://arxiv.org/abs/2311.02379) | CoRL | 2023-11 |
-| [**Motif: Intrinsic Motivation from Artificial Intelligence Feedback**](https://arxiv.org/abs/2310.00166) | arXiv | 2023-10 | [Github](https://github.com/facebookresearch/motif) |
+| [**Motif: Intrinsic Motivation from Artificial Intelligence Feedback**](https://arxiv.org/abs/2310.00166) | ICLR | 2023-10 | [Github](https://github.com/facebookresearch/motif) |
 | [**Ultrafeedback: Boosting language models with high-quality feedback**](https://arxiv.org/pdf/2310.01377.pdf) | arXiv | 2023-10 | [Github](https://github.com/thunlp/UltraFeedback) | [Data](https://huggingface.co/datasets/openbmb/UltraFeedback)|
 | [**Eureka: Human-Level Reward Design via Coding Large Language Models**](https://arxiv.org/pdf/2310.12931.pdf) | arXiv | 2023-10 | [Github](https://github.com/eureka-research/Eureka)
 | [**Rlaif: Scaling Reinforcement Learning from Human Feedback with AI Feedback**](https://arxiv.org/pdf/2309.00267.pdf) | arXiv | 2023-09 |
@@ -457,7 +457,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 | [**TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Systems**](https://arxiv.org/abs/2311.11315) | arXiv | 2023-11 |
 | [**Embodied Multi-Modal Agent trained by an LLM from a Parallel TextWorld**](https://arxiv.org/abs/2311.16714) | arXiv | 2023-11 |
 | [**Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models**](https://arxiv.org/abs/2311.02379) | CoRL | 2023-11 |
-| [**Motif: Intrinsic Motivation from Artificial Intelligence Feedback**](https://arxiv.org/abs/2310.00166) | arXiv | 2023-10 | [Github](https://github.com/facebookresearch/motif) |
+| [**Motif: Intrinsic Motivation from Artificial Intelligence Feedback**](https://arxiv.org/abs/2310.00166) | ICLR | 2023-10 | [Github](https://github.com/facebookresearch/motif) |
 | [**FireAct: Toward Language Agent Fine-tuning**](https://arxiv.org/abs/2310.05915) | arXiv | 2023-10 | [Github](https://fireact-agent.github.io/) | [Data](https://fireact-agent.github.io/)|
 | [**AgentTuning: Enabling Generalized Agent Abilities for LLMs**](https://arxiv.org/abs/2310.12823) | arXiv | 2023-10 | [Github](https://github.com/THUDM/AgentTuning) |
 | [**Eureka: Human-Level Reward Design via Coding Large Language Models**](https://arxiv.org/pdf/2310.12931.pdf) | arXiv | 2023-10 | [Github](https://github.com/eureka-research/Eureka)
