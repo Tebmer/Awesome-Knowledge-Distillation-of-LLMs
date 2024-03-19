@@ -302,7 +302,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering**](https://arxiv.org/pdf/2403.02966.pdf) | arXiv | 2024-03 |
-| [**Aligning Large and Small Language Models via Chain-of-Thought Reasoning**](https://aclanthology.org/2024.eacl-long.109.pdf) | EACL | 2024-03 | [Github](https://aclanthology.org/2024.eacl-long.109.pdf https://github.com/lranaldii/Aligning_LLMs) |
+| [**Aligning Large and Small Language Models via Chain-of-Thought Reasoning**](https://aclanthology.org/2024.eacl-long.109.pdf) | EACL | 2024-03 | [Github](https://github.com/lranaldii/Aligning_LLMs) |
 | [**Divide-or-Conquer? Which Part Should You Distill Your LLM?**](https://arxiv.org/pdf/2402.15000.pdf) | arXiv | 2024-02 |
 | [**Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models**](https://arxiv.org/abs/2402.13064) | arXiv | 2024-02 |
 | [**Orca 2: Teaching Small Language Models How to Reason**](https://arxiv.org/pdf/2311.11045.pdf) | arXiv | 2023-11 |
@@ -420,7 +420,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 #### Thinking Pattern
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Aligning Large and Small Language Models via Chain-of-Thought Reasoning**](https://aclanthology.org/2024.eacl-long.109.pdf) | EACL | 2024-03 | [Github](https://aclanthology.org/2024.eacl-long.109.pdf https://github.com/lranaldii/Aligning_LLMs) |
+| [**Aligning Large and Small Language Models via Chain-of-Thought Reasoning**](https://aclanthology.org/2024.eacl-long.109.pdf) | EACL | 2024-03 | [Github](https://github.com/lranaldii/Aligning_LLMs) |
 | [**Divide-or-Conquer? Which Part Should You Distill Your LLM?**](https://arxiv.org/pdf/2402.15000.pdf) | arXiv | 2024-02 |
 | [**Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning**](https://arxiv.org/abs/2402.10110) | arXiv | 2024-02 | [Github](https://github.com/tianyi-lab/Reflection_Tuning) | [Data](https://github.com/tianyi-lab/Reflection_Tuning)|
 | [**Can LLMs Speak For Diverse People? Tuning LLMs via Debate to Generate Controllable Controversial Statements**](https://arxiv.org/abs/2402.10614) | arXiv | 2024-02 | [Github](https://github.com/tianyi-lab/DEBATunE) | [Data](https://github.com/tianyi-lab/DEBATunE)|
