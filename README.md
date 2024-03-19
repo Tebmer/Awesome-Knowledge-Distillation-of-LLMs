@@ -149,7 +149,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering**](https://arxiv.org/pdf/2403.02966.pdf) | arXiv | 2024-03 |
-| [**Aligning Large and Small Language Models via Chain-of-Thought Reasoning**](https://aclanthology.org/2024.eacl-long.109.pdf) | EACL | 2024-03 | [Github](https://aclanthology.org/2024.eacl-long.109.pdf https://github.com/lranaldii/Aligning_LLMs) |
+| [**Aligning Large and Small Language Models via Chain-of-Thought Reasoning**](https://aclanthology.org/2024.eacl-long.109.pdf) | EACL | 2024-03 | [Github](https://github.com/lranaldii/Aligning_LLMs) |
 | [**Divide-or-Conquer? Which Part Should You Distill Your LLM?**](https://arxiv.org/pdf/2402.15000.pdf) | arXiv | 2024-02 |
 | [**Miko: Multimodal Intention Knowledge Distillation from Large Language Models for Social-Media Commonsense Discovery**](https://arxiv.org/pdf/2402.18169.pdf) | arXiv | 2024-02 |
 | [**KnowTuning: Knowledge-aware Fine-tuning for Large Language Models**](https://arxiv.org/pdf/2402.11176.pdf) | arXiv | 2024-02 | [Github](https://github.com/youganglyu/KnowTuning) |
