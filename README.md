@@ -140,6 +140,8 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
     - [Science](#science)
     - [Misc.](#misc)
 
+- [Encoder-based KD](#encoder-based-kd)
+
 - [Citation](#citation)
 
 
@@ -674,6 +676,16 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**OWL: A Large Language Model for IT Operations**](https://arxiv.org/pdf/2309.09298.pdf) | arXiv | 2023-09 | [Github](https://github.com/HC-Guo/Owl) | [Data](https://github.com/HC-Guo/Owl/tree/main/OWL-Instruct/data)|
 | [**EduChat: A Large-Scale Language Model-based Chatbot System for Intelligent Education**](https://arxiv.org/pdf/2308.02773.pdf) | arXiv | 2023-08 | [Github](https://github.com/ECNU-ICALK/EduChat) | [Data](https://huggingface.co/datasets/ecnu-icalk/educhat-sft-002-data-osm)    |
+
+
+## Encoder-based KD
+
+> **Note**: Our survey mainly focuses on generative LLMs, and thus the encoder-based KD is not included in the survey. However, we are also interested in this topic and continue to update the latest works in this area.
+
+|  Title  |   Venue  |   Date   | Code | Data|
+|:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Masked Latent Semantic Modeling: an Efficient Pre-training Alternative to Masked Language Modeling**](https://aclanthology.org/2023.findings-acl.876.pdf) | Findings of ACL | 2023-08 |
+| [**Better Together: Jointly Using Masked Latent Semantic Modeling and Masked Language Modeling for Sample Efficient Pre-training**](https://aclanthology.org/2023.conll-babylm.26.pdf) | CoNLL | 2023-08 |
 
 
 ## Citation
