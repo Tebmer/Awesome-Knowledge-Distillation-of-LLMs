@@ -221,6 +221,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models**](https://arxiv.org/pdf/2404.02657.pdf) | COLM | 2024-04 | 
 | [**Direct Alignment of Draft Model for Speculative Decoding with Chat-Fine-Tuned LLMs**](https://arxiv.org/pdf/2403.00858.pdf) | arXiv | 2024-03 |
 | [**DB-LLM: Accurate Dual-Binarization for Efficient LLMs**](https://arxiv.org/pdf/2402.11960.pdf) | arXiv | 2024-02 | 
 | [**BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation**](https://arxiv.org/pdf/2402.10631.pdf) | arXiv | 2024-02 | [Github](https://github.com/DD-DuDa/BitDistiller) |
@@ -324,6 +325,8 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models**](https://arxiv.org/pdf/2404.02657.pdf) | COLM | 2024-04 | 
+| [**Weight-Inherited Distillation for Task-Agnostic BERT Compression**](https://arxiv.org/pdf/2305.09098.pdf) | NAACL | 2024-03 | [Github](https://github.com/wutaiqiang/WID-NAACL2024) |
 | [**BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation**](https://arxiv.org/pdf/2402.10631.pdf) | arXiv | 2024-02 | [Github](https://github.com/DD-DuDa/BitDistiller) |
 | [**DISTILLM: Towards Streamlined Distillation for Large Language Models**](https://arxiv.org/pdf/2402.03898.pdf) | arXiv | 2024-02 | [Github](https://github.com/jongwooko/distillm) |
 | [**Towards Cross-Tokenizer Distillation: the Universal Logit Distillation Loss for LLMs**](https://arxiv.org/pdf/2402.12030.pdf) | arXiv | 2024-02 | [Github](https://github.com/Nicolas-BZRD/llm-recipes) | [Data](https://huggingface.co/Nicolas-BZRD)|
