@@ -12,8 +12,8 @@ A Survey on Knowledge Distillation of Large Language Models
 
 
 <p align="center">
-    Ming Li<sup>2</sup>&nbsp&nbsp
   Xiaohan Xu<sup>1</sup>&nbsp&nbsp
+    Ming Li<sup>2</sup>&nbsp&nbsp
     Chongyang Tao<sup>3</sup>&nbsp&nbsp
     Tao Shen<sup>4</sup>&nbsp&nbsp
     Reynold Cheng<sup>1</sup>&nbsp&nbsp
