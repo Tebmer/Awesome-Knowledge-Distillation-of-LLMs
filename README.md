@@ -702,3 +702,9 @@ If you find this repository helpful, please consider citing the following paper:
       primaryClass={cs.CL}
 }
 ``````
+
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Tebmer/Awesome-Knowledge-Distillation-of-LLMs&type=Date)](https://star-history.com/#Tebmer/Awesome-Knowledge-Distillation-of-LLMs&Date)
