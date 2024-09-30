@@ -223,7 +223,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning**](https://arxiv.org/abs/2402.12842) | arXiv | 2024-02 | [Github](https://github.com/gmkim-ai/PromptKD) |  [Data](https://github.com/gmkim-ai/PromptKD/tree/main/data_utils)
+| [**PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning**](https://arxiv.org/abs/2402.12842) | EMNLP Findings| 2024-02 | [Github](https://github.com/gmkim-ai/PromptKD) |  [Data](https://github.com/gmkim-ai/PromptKD/tree/main/data_utils)
 | [**Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models**](https://arxiv.org/pdf/2404.02657.pdf) | arXiv | 2024-04 | 
 | [**Direct Alignment of Draft Model for Speculative Decoding with Chat-Fine-Tuned LLMs**](https://arxiv.org/pdf/2403.00858.pdf) | arXiv | 2024-03 |
 | [**DB-LLM: Accurate Dual-Binarization for Efficient LLMs**](https://arxiv.org/pdf/2402.11960.pdf) | arXiv | 2024-02 | 
@@ -245,7 +245,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 #### Feedback
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning**](https://arxiv.org/abs/2402.12842) | arXiv | 2024-02 | [Github](https://github.com/gmkim-ai/PromptKD) |  [Data](https://github.com/gmkim-ai/PromptKD/tree/main/data_utils)
+| [**PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning**](https://arxiv.org/abs/2402.12842) | EMNLP Findings| 2024-02 | [Github](https://github.com/gmkim-ai/PromptKD) |  [Data](https://github.com/gmkim-ai/PromptKD/tree/main/data_utils)
 | [**Evidence-Focused Fact Summarization for Knowledge-Augmented Zero-Shot Question Answering**](https://arxiv.org/pdf/2403.02966.pdf) | arXiv | 2024-03 |
 | [**Evolving Knowledge Distillation with Large Language Models and Active Learning**](https://arxiv.org/pdf/2403.06414v1.pdf) | arXiv | 2024-03 |
 | [**Direct Language Model Alignment from Online AI Feedback**](https://arxiv.org/pdf/2402.04792.pdf) | arXiv | 2024-02 | 
@@ -329,7 +329,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning**](https://arxiv.org/abs/2402.12842) | arXiv | 2024-02 | [Github](https://github.com/gmkim-ai/PromptKD) |  [Data](https://github.com/gmkim-ai/PromptKD/tree/main/data_utils)
+| [**PromptKD: Distilling Student-Friendly Knowledge for Generative Language Models via Prompt Tuning**](https://arxiv.org/abs/2402.12842) | EMNLP Findings| 2024-02 | [Github](https://github.com/gmkim-ai/PromptKD) |  [Data](https://github.com/gmkim-ai/PromptKD/tree/main/data_utils)
 | [**Rethinking Kullback-Leibler Divergence in Knowledge Distillation for Large Language Models**](https://arxiv.org/pdf/2404.02657.pdf) | arXiv | 2024-04 | 
 | [**Weight-Inherited Distillation for Task-Agnostic BERT Compression**](https://arxiv.org/pdf/2305.09098.pdf) | NAACL | 2024-03 | [Github](https://github.com/wutaiqiang/WID-NAACL2024) |
 | [**BitDistiller: Unleashing the Potential of Sub-4-Bit LLMs via Self-Distillation**](https://arxiv.org/pdf/2402.10631.pdf) | arXiv | 2024-02 | [Github](https://github.com/DD-DuDa/BitDistiller) |
