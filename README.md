@@ -691,6 +691,10 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 | [**Better Together: Jointly Using Masked Latent Semantic Modeling and Masked Language Modeling for Sample Efficient Pre-training**](https://aclanthology.org/2023.conll-babylm.26.pdf) | CoNLL | 2023-08 |
 
 
+## TODO List
+[] Works about O1-like distillation. Stay tuned! 
+
+
 ## Citation
 
 If you find this repository helpful, please consider citing the following paper:
