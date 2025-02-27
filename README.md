@@ -692,7 +692,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 
 ## TODO List
-[] Works about O1-like distillation. Stay tuned! 
+- [] Add works about O1-like distillation. Stay tuned! 
 
 
 ## Citation
