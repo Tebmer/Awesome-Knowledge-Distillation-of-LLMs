@@ -91,8 +91,8 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Role  |   Description  |   Trend   |
 |:--------|:--------:|:--------:|
-| **① Advancing Smaller Models** | Transferring advanced capabilities from proprietary LLMs to smaller models, such as open source LLMs or other smaller models. | Most common |
-| **② Compression** | Compressing open-source LLMs to make them more efficient and practical.  |  More popular with the prosperity of open-source LLMs |
+| **① Advancing SLMs** | Transferring advanced capabilities from proprietary LLMs to smaller SLMs, such as open source LLMs or other smaller models. | Most common |
+| **② Compression** | Compressing LLMs to make them more efficient and practical.  |  More popular with the prosperity of open-source LLMs |
 | **③ Self-Improvement** | Refining open-source LLMs' performance by leveraging their own knowledge, i.e. self-knowledge. | New trend to make open-source LLMs more competitive |
 
 
