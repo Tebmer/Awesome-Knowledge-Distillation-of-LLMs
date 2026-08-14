@@ -274,6 +274,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 #### Self-Knowledge
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Learning from the Self-future: On-policy Self-distillation for dLLMs**](https://arxiv.org/abs/2606.18195) | arXiv | 2026-06 | [Github](https://github.com/xingzhejun/d-opsd-code) |
 | [**V-STaR: Training Verifiers for Self-Taught Reasoners**](https://arxiv.org/pdf/2402.06457.pdf) | arXiv | 2024-02 
 | [**Self-Rewarding Language Models**](https://arxiv.org/pdf/2401.10020.pdf) | arXiv | 2024-01 | [Github](https://github.com/lucidrains/self-rewarding-lm-pytorch?tab=readme-ov-file    )|
 | [**Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models**](https://arxiv.org/pdf/2401.01335.pdf) | arXiv | 2024-01 | [Github](https://github.com/uclaml/SPIN) | [Data](https://huggingface.co/datasets/UCLA-AGI/SPIN_iter0)|
