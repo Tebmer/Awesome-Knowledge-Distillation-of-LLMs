@@ -387,6 +387,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 #### Instruction Following
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report**](https://arxiv.org/abs/2608.15763) | arXiv | 2026-08 | - | - |
 | [**Synthetic Data (Almost) from Scratch: Generalized Instruction Tuning for Language Models**](https://arxiv.org/abs/2402.13064) | arXiv | 2024-02 |
 | [**Revisiting Knowledge Distillation for Autoregressive Language Models**](https://arxiv.org/pdf/2402.11890.pdf) | arXiv | 2024-02 |
 | [**Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning**](https://arxiv.org/abs/2402.10110) | arXiv | 2024-02 | [Github](https://github.com/tianyi-lab/Reflection_Tuning) | [Data](https://github.com/tianyi-lab/Reflection_Tuning)|
