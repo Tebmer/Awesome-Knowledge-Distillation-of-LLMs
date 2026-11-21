@@ -354,6 +354,7 @@ In the era of LLMs, KD of LLMs plays the following crucial roles:
 
 |  Title  |   Venue  |   Date   | Code | Data|
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation**](https://arxiv.org/abs/2610.23234) | arXiv | 2026-10 | – | – |
 | [**Direct Language Model Alignment from Online AI Feedback**](https://arxiv.org/pdf/2402.04792.pdf) | arXiv | 2024-02 | 
 | [**Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**](https://arxiv.org/pdf/2401.06081.pdf) | arXiv | 2024-01 | [Github](https://github.com/RUCAIBox/RLMEC)
 | [**Accelerating Reinforcement Learning of Robotic Manipulations via Feedback from Large Language Models**](https://arxiv.org/abs/2311.02379) | CoRL | 2023-11 |
